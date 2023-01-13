@@ -1,0 +1,1 @@
+# EstudoDeTrajetorias
